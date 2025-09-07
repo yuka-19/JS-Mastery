@@ -31,7 +31,8 @@
 				"editor.wordWrap": "on",
 				"editor.mouseWheelZoom": true,
 				"terminal.integrated.mouseWheelZoom" : true,
-				"code-runner.runInTerminal" : true 
+				"code-runner.runInTerminal" : true,
+				"workbench.colorTheme": "Palenight (Mild Contrast)"
 			}
 			
 		}
