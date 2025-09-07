@@ -30,7 +30,8 @@
 				"terminal.integrated.fontSize": 15,
 				"editor.wordWrap": "on",
 				"editor.mouseWheelZoom": true,
-				"terminal.integrated.mouseWheelZoom" : true 
+				"terminal.integrated.mouseWheelZoom" : true,
+				"code-runner.runInTerminal" : true 
 			}
 			
 		}
